@@ -1,0 +1,1 @@
+This is my first go at making something even close to a website. While I'm certain this will be amateur at best, I look forward to being able to look back on this as the start of my journey.
